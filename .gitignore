@@ -1,0 +1,5 @@
+#ignore gradle and bind components
+build
+.idea
+.gradle
+*.iml
